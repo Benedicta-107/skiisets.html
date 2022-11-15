@@ -1,0 +1,28 @@
+.ordered_list {
+    color: aqua;
+}
+.ordered_list li {
+    color: purple;
+}
+#likes {
+    color: brown;
+}
+
+.p {
+    
+    font-size: 14px;
+    color: green;
+}
+
+img {
+    border-radius: 5px 5px 0 0;
+    padding: 1px;
+    border: 10px;
+    max-width: 20%;
+    margin: auto;
+  }
+  
+  .container {
+    padding: 1px 12px;
+    border: 5px;
+  }
